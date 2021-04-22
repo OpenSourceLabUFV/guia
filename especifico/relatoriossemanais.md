@@ -10,7 +10,7 @@ Os relatórios devem seguir a estrutura abaixo. Todos os campos devem ser inclu�
 
 #### Introdução
 
-Seu nome.
+Seu nome e a data do início da semana (segunda - feira).
 
 #### Essa semana
 
@@ -32,7 +32,10 @@ Coloque aqui links de contribuições nos repositórios ou de recursos que você
 
 <div style="border: 1px solid; padding: 1em;>
 
+######
+
 ### Lucas Rodrigues Joviniano
+##### 19/04/2021
 
 **Essa Semana**
 
