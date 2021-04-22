@@ -11,7 +11,7 @@ Abaixo serão descritas algumas ferramentas comuns de desenvolvimento na OSLU.
 
 O terror dos inciantes, o **terminal**, é com certeza a ferramente mais importante no que se trata de desenvolvimento. Ele possui comandos extremamente úteis para interagir com o sistema por meio do Bash.
 
-O Bash é, ao mesmo tempo, uma interface de linha de comando - também chamada de **shell** - e uma linguagem de script. O Bash é cheio de funcionalidades, por isso ele tem um capítulo especial que você pode conferir [aqui](bash.md). Recomendo a leitura para todos que tem pouca familiaridade com o terminal ou acham que ainda podem aprender mais.
+O Bash é, ao mesmo tempo, uma interface de linha de comando - também chamada de **shell** - e uma linguagem de script. O Bash é cheio de funcionalidades, por isso ele tem um capítulo especial que você pode conferir [aqui](apendices/bash.md). Recomendo a leitura para todos que tem pouca familiaridade com o terminal ou acham que ainda podem aprender mais.
 
 ## O Editor de Texto
 

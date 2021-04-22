@@ -2,14 +2,14 @@
 
 - Boas Práticas
 
-    - [Introdução](boas-praticas.md)
-    - [Ferramentas](ferramentas.md)
-    - [Controle de Versão](controledeversao.md)
+    - [Introdução](boas-praticas/boas-praticas.md)
+    - [Ferramentas](boas-praticas/ferramentas.md)
+    - [Controle de Versão](boas-praticas/controledeversao.md)
 
 - Específico da OSLU
 
-    - [Relatórios Semanais](relatoriossemanais.md)
+    - [Relatórios Semanais](especifico/relatoriossemanais.md)
 
 - Apêndices
 
-    - [Bash](bash.md)
+    - [Bash](apendices/bash.md)
