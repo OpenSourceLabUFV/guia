@@ -9,6 +9,7 @@
 - Específico da OSLU
 
     - [Relatórios Semanais](especifico/relatoriossemanais.md)
+    - [Projetos](especifico/projetos.md)
 
 - Apêndices
 
