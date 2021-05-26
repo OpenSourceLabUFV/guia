@@ -11,6 +11,10 @@
     - [Relatórios Semanais](especifico/relatoriossemanais.md)
     - [Projetos](especifico/projetos.md)
 
+- Branding
+    - [Assets](branding/assets.md)
+    - [Padrões](branding/padroes.md)
+
 - Apêndices
 
     - [Bash](apendices/bash.md)
