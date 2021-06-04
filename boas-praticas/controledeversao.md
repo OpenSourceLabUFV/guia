@@ -18,4 +18,4 @@ As mensagens de commit devem ser claras. No modelo de branching que usamos, as m
 - O Github tem suporte a [autenticação em dois fatores](https://docs.github.com/pt/github/authenticating-to-github/configuring-two-factor-authentication). Esse recurso **deve** estar habilitado para todos os membros da OSLU.
 - Todos os repositórios devem ser públicos.
 - Apenas os membros do Core Team podem ser membros da organização do Github.
-- para adicionar não membros o recurso de [colaboradores](https://docs.github.com/pt/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository) deve ser utilizado.
+- Para adicionar não membros o recurso de [colaboradores](https://docs.github.com/pt/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository) deve ser utilizado.
