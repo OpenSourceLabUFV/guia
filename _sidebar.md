@@ -15,6 +15,7 @@
 - Branding
     - [Assets](branding/assets.md)
     - [Padrões](branding/padroes.md)
+    - [Redes Sociais](branding/redes-sociais.md)
 
 - Apêndices
 
